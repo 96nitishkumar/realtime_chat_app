@@ -1,0 +1,29 @@
+.msg-form {
+    position: fixed;
+    bottom: 0;
+    width: 80%
+  }
+
+  .col-md-10 {
+    height: 85vh;
+    overflow: scroll;
+  }
+
+  .msg-content {
+    width: 80%;
+    margin-right: 15px;
+  }
+
+  .message-box {
+  width: fit-content;
+  max-width: 40%;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #555555 ;
+  padding: 10px
+}
+
+.col-md-2{
+  margin-bottom: 200px;
+}
